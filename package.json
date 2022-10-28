@@ -1,0 +1,19 @@
+{
+  "name": "barraca-ladrillos-srl",
+  "version": "1.0.0",
+  "description": "\"# Barraca Ladrillos SRL\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasamoroso/Barraca-Ladrillos-SRL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasamoroso/Barraca-Ladrillos-SRL/issues"
+  },
+  "homepage": "https://github.com/nicolasamoroso/Barraca-Ladrillos-SRL#readme"
+}
